@@ -14,4 +14,4 @@ E-mails: [sumandro@cis-india.org](mailto:sumandro@cis-india.org) (CIS) and [suma
 
 Professional and academic information: [ORCID](http://orcid.org/0000-0001-5724-4557).
 
-Also on [Keybase](https://keybase.io/ajantriks), [GitHub](https://github.com/ajantriks), [SSRN](http://ssrn.com/author=2123401), [Slideshare](https://www.slideshare.net/sumandro), and [Twitter](http://twitter.com/ajantriks).
+Also on [SSRN](http://ssrn.com/author=2123401), [Slideshare](https://www.slideshare.net/sumandro), [Twitter](http://twitter.com/ajantriks), [GitHub](https://github.com/ajantriks), and [Keybase](https://keybase.io/ajantriks).
