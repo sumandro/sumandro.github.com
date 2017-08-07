@@ -6,7 +6,7 @@ Research Director at the [Centre for Internet and Society (CIS)](http://cis-indi
 
 Co-Investigator at the [Development Implications of Digital Economies (DIODE) Strategic Research Network](https://diode.network/).
 
-Co-founder and member of [India Open Data Association](http://indiaopendata.com/). Member of [DataMeet](http://datameet.org/).
+Co-founder of [India Open Data Association](http://indiaopendata.com/). Member of [DataMeet](http://datameet.org/).
 
 Previously associated with [Sarai](http://sarai.net/), [Azim Premji University](http://azimpremjiuniversity.edu.in/), [MOD Institute](http://www.mod.org.in/), and [Greha](http://www.greha.org/).
 
