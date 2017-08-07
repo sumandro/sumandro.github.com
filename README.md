@@ -4,7 +4,7 @@ Researcher interested in media and technology studies, political economy, digita
 
 Research Director at the [Centre for Internet and Society (CIS)](http://cis-india.org/) and lead the [Researchers at Work](https://cis-india.org/raw/) programme.
 
-Co-Investigator at the [Development Implications of Digital Economies (DIODE) Strategic Research Network](https://diode.network/).
+Co-investigator at the [Development Implications of Digital Economies (DIODE) Strategic Research Network](https://diode.network/).
 
 Co-founder of [India Open Data Association](http://indiaopendata.com/). Member of [DataMeet](http://datameet.org/).
 
