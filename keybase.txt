@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/ajantriks
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sumandro.github.io
+  * I am ajantriks (https://keybase.io/ajantriks) on keybase.
+  * I have a public key ASAX6k_QVMS0QBFrL25_xjXmdx1rNibUf3bBcVWKkuEhiAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01018923024883b3e9825ee06f928d1a273ea935b2e70d8df8fb4eb8ecbb4c0a34490a",
+      "host": "keybase.io",
+      "kid": "012017ea4fd054c4b440116b2f6e7fc635e6771d6b3626d47f76c171558a92e121880a",
+      "uid": "ee20fbbe39ac0064abceb31b0e26aa19",
+      "username": "ajantriks"
+    },
+    "merkle_root": {
+      "ctime": 1507030699,
+      "hash": "ecb0b3a68822f92207cdf98ca4a1a8a2a4241294f05e43abfa06e868363c26f3e68f7d46ffcdd3a2c6e78d27fedcc45f302fbeecb3892d55be500cae7ee23511",
+      "hash_meta": "86159c6b1320253bdbede3f57c320f5507f746521a672cc97e68968e703d8dd5",
+      "seqno": 1488165
+    },
+    "service": {
+      "hostname": "sumandro.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.29"
+  },
+  "ctime": 1507030721,
+  "expire_in": 504576000,
+  "prev": "17e25c829f189a631f4cebe1ee08acc6537caa3c4ef5d0ba1d73edbeb506fec9",
+  "seqno": 38,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgF+pP0FTEtEARay9uf8Y15ncdazYm1H92wXFVipLhIYgKp3BheWxvYWTFA0x7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxODkyMzAyNDg4M2IzZTk4MjVlZTA2ZjkyOGQxYTI3M2VhOTM1YjJlNzBkOGRmOGZiNGViOGVjYmI0YzBhMzQ0OTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTdlYTRmZDA1NGM0YjQ0MDExNmIyZjZlN2ZjNjM1ZTY3NzFkNmIzNjI2ZDQ3Zjc2YzE3MTU1OGE5MmUxMjE4ODBhIiwidWlkIjoiZWUyMGZiYmUzOWFjMDA2NGFiY2ViMzFiMGUyNmFhMTkiLCJ1c2VybmFtZSI6ImFqYW50cmlrcyJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwNzAzMDY5OSwiaGFzaCI6ImVjYjBiM2E2ODgyMmY5MjIwN2NkZjk4Y2E0YTFhOGEyYTQyNDEyOTRmMDVlNDNhYmZhMDZlODY4MzYzYzI2ZjNlNjhmN2Q0NmZmY2RkM2EyYzZlNzhkMjdmZWRjYzQ1ZjMwMmZiZWVjYjM4OTJkNTViZTUwMGNhZTdlZTIzNTExIiwiaGFzaF9tZXRhIjoiODYxNTljNmIxMzIwMjUzYmRiZWRlM2Y1N2MzMjBmNTUwN2Y3NDY1MjFhNjcyY2M5N2U2ODk2OGU3MDNkOGRkNSIsInNlcW5vIjoxNDg4MTY1fSwic2VydmljZSI6eyJob3N0bmFtZSI6InN1bWFuZHJvLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjI5In0sImN0aW1lIjoxNTA3MDMwNzIxLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjE3ZTI1YzgyOWYxODlhNjMxZjRjZWJlMWVlMDhhY2M2NTM3Y2FhM2M0ZWY1ZDBiYTFkNzNlZGJlYjUwNmZlYzkiLCJzZXFubyI6MzgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAfDsteNs0sPKtbAYsXmC7C5C9TcKMfDN4J4QqB8oqXPrv3pOseuP5N+oxTswvyL+UagM/M/eLd7bGZEc/UAezDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIyEQfh5iKN0XhSD7TkZLrXiVwIneFHsijs7LSf6L8F5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ajantriks
+
+==================================================================
