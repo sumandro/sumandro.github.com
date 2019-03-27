@@ -2,9 +2,9 @@
 
 Researcher interested in media and technology studies, political economy, digital methods, and public policy. Based in New Delhi, India.
 
-Research Director at the [Centre for Internet and Society (CIS)](http://cis-india.org/) and leads the [Researchers at Work](https://cis-india.org/raw/) programme.
+Director at the [Centre for Internet and Society (CIS)](http://cis-india.org/) and leads the [researchers@work](https://cis-india.org/raw/) programme.
 
-Co-founder of [India Open Data Association](http://indiaopendata.com/). Member of [DataMeet](http://datameet.org/).
+Member of co-founding team at [India Open Data Association](http://indiaopendata.com/). Member of [DataMeet](http://datameet.org/).
 
 Previously associated with [Sarai](http://sarai.net/), [Azim Premji University](http://azimpremjiuniversity.edu.in/), [MOD Institute](http://www.mod.org.in/), and [Greha](http://www.greha.org/).
 
